@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Бизнес-аналитика
+  - Стартапы
+  - Искусственный интеллект
+  - Экономика
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю бизнес-информатику, интересуюсь разработкой информационных систем для бизнеса и применением ИТ в экономике.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Изучаю информационные технологии в контексте бизнеса и менеджмента.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,36 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
+        description: Основы программирования для анализа данных
         percent: 60
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: SQL
+        description: Работа с базами данных
+        percent: 70
+        icon: database
+      - name: Business Analytics
+        description: Анализ бизнес-данных для принятия решений
+        percent: 75
+        icon: chart-line
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Чтение бизнес-литературы
+        description: Интересуюсь книгами по управлению и аналитике
         percent: 80
+      - name: Футбол
+        description: Люблю играть в футбол в свободное время
+        percent: 85
+      - name: Путешествия
+        description: Исследую новые культуры и города
+        percent: 70
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
